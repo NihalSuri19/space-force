@@ -1,4 +1,4 @@
-# space-force
+# Space-Force
 The game is a take on a 2-D Space Shooter. There is the main player which has the ability of 360 degree shooting using vectors.
    There are three different kind of enemies of varying sizes and speeds. The bigger enemies need more bullets for them to get destoyed. The player 
    needs to escape the enemies. Once all the health get's over the player get's destroyed but if the player scores 300 points before 
